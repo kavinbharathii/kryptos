@@ -37,7 +37,7 @@ function App() {
 
 	useEffect(() => {
 		makeGrid()
-    fillGrid()
+		fillGrid()
 	}, [rows, columns])
 
 	useEffect(() => {

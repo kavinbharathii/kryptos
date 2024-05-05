@@ -3,10 +3,12 @@
 K-4
 
 ciphertext:
-(?)OBKR
+```
+                        (?)OBKR
 UOXOGHULBSOLIFBBWFLRVQQPRNGKSSO
 TWTQSJQSSEKZZWATJKLUDIAWINFBNYP
 VTTMZFPKWGDKZXTJCDIGKUHUAUEKCAR
+```
 
 ### List of cipher techniques
 [ ] Vigenere cipher
@@ -18,7 +20,9 @@ Other related clues and bits:
 
 Revealed information so far:
 
+```
                           (?)OBKR
 UOXOGHULBSOLIFBBW[EASTNORTHEAST]O
 TWTQSJQSSEKZZWATJKLUDIAWINFB[BER]
-[LIN]MZFPKWGDKZXTJCDIGKUHUAUEKCAR
+[LINCLOCK]WGDKZXTJCDIGKUHUAUEKCAR
+```
