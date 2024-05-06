@@ -51,13 +51,10 @@ def getFrequencyData(ciphertext):
 
     return data 
 
+# data = [(k, v) for k, v in getFrequencyData(k4).items()]
+# data.sort(key = lambda x: x[1], reverse = True)
 
-ciphertext = "OBKRUOXOGHULBSOLIFBBWFLRVQQPRNGKSSOTWTQSJQSSEKZZWATJKLUDIAWINFBNYPVTTMZFPKWGDKZXTJCDIGKUHUAUEKCAR"
-data = [(k, v) for k, v in getFrequencyData(ciphertext).items()]
-data.sort(key = lambda x: x[1], reverse = True)
 
-for k, v in data:
-    print(f"{k}: {v:.2f}%")
-
-print(data)
+k1 = "EMUFPHZLRFAXYUSDJKZLDKRNSHGNFIVJYQTQUXQBQVYUVLLTREVJYQTMKYRDMFD"
+k4 = "OBKRUOXOGHULBSOLIFBBWFLRVQQPRNGKSSOTWTQSJQSSEKZZWATJKLUDIAWINFBNYPVTTMZFPKWGDKZXTJCDIGKUHUAUEKCAR"
 

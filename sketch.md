@@ -21,5 +21,6 @@ MZFPK
 CLOCK
 
 ### TODO:
-    [ ] Use average spacing between two consecutive occurences of the same letter
-    [ ] Gather data available so far
+- [ ] Use average spacing between two consecutive occurences of the same letter
+- [ ] Gather data available so far
+- [ ] Compare the two plots of frequency data
